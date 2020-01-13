@@ -8,6 +8,8 @@ Python 2.7
  Data| CIFAR10(4K)| SVHN(1K)
  ---- | ----- | ------  
  Test error rate(%)| 4.90| 2.42
+# Method
+<img src="https://github.com/sweetTT/semi-supervised-method-based-on-PEDCC/blob/master/images/figure.png" width="512">
 
 # Preprocess
 ```
